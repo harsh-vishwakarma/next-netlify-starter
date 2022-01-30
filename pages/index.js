@@ -15,6 +15,11 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
+        <p className="description">
+        5 p.m., Sunday.
+        Your final exams are starting. There are two papers tomorrow, one at 10 AM, and the other at 3 PM. What will be your likely state?
+
+        </p>
       </main>
 
       <Footer />
